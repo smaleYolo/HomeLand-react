@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/HomeLand-react/static/css/main.35cd1e36.css",
-    "main.js": "/HomeLand-react/static/js/main.95c360ea.js",
+    "main.css": "/HomeLand-react/static/css/main.3812f27d.css",
+    "main.js": "/HomeLand-react/static/js/main.9e522332.js",
     "static/media/house12lg.png": "/HomeLand-react/static/media/house12lg.ac9d7673a85220c54330.png",
     "static/media/house10lg.png": "/HomeLand-react/static/media/house10lg.7cdefca31329de5e3f8a.png",
     "static/media/house11lg.png": "/HomeLand-react/static/media/house11lg.a88bde8ff3603b502d7d.png",
@@ -53,11 +53,11 @@
     "static/media/agent3.png": "/HomeLand-react/static/media/agent3.e10cfbea6a67f149dcdc.png",
     "static/media/logo.svg": "/HomeLand-react/static/media/logo.ca119a1d2eb37f73cab0e512cb03e4ed.svg",
     "index.html": "/HomeLand-react/index.html",
-    "main.35cd1e36.css.map": "/HomeLand-react/static/css/main.35cd1e36.css.map",
-    "main.95c360ea.js.map": "/HomeLand-react/static/js/main.95c360ea.js.map"
+    "main.3812f27d.css.map": "/HomeLand-react/static/css/main.3812f27d.css.map",
+    "main.9e522332.js.map": "/HomeLand-react/static/js/main.9e522332.js.map"
   },
   "entrypoints": [
-    "static/css/main.35cd1e36.css",
-    "static/js/main.95c360ea.js"
+    "static/css/main.3812f27d.css",
+    "static/js/main.9e522332.js"
   ]
 }
