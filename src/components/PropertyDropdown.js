@@ -1,5 +1,5 @@
 
-import React, {useState, useEffect, useContext} from 'react';
+import React, {useState, useContext} from 'react';
 
 import {RiHome5Line, RiArrowDownSLine, RiArrowUpSLine} from 'react-icons/ri'
 
@@ -33,7 +33,10 @@ const PropertyDropdown = () => {
           {properties.map((property, index) => {
             return (
                 <Menu.Item
-                    onClick={() => setProperty(property)}
+                    onClick={() => {
+                        setProperty(property)
+                        setIsOpen(!isOpen)
+                    }}
                     className='cursor-pointer hover:text-violet-700 transition'
                     as='li'
                     key={index}
