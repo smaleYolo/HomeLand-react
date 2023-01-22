@@ -14,7 +14,7 @@ const App = () => {
         <div className="max-w-[1440px] mx-auto bg-white">
             <Header/>
             <Routes>
-                <Route path="/" element={<Home/>}/>
+                <Route path="/HomeLand-react" element={<Home/>}/>
                 <Route path="/property/:id" element={<PropertyDetails/>}/>
                 <Route path="*" element={<Home/>}/>
             </Routes>
